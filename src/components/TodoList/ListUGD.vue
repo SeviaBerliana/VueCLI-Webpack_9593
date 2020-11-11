@@ -131,7 +131,6 @@
                         value: "actions"
                     },
                 ],
-
                 todos:[
                     {
                         task: "bernafas",
